@@ -1,0 +1,16 @@
+.sortable-list {
+  list-style: none;
+  padding: 0;
+}
+
+.draggable-item {
+  background-color: #f0f0f0;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  padding: 8px;
+  margin-bottom: 8px;
+}
+
+.draggable-item:hover {
+  background-color: #e0e0e0;
+}
